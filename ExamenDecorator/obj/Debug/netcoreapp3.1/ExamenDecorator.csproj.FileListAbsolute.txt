@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ExamenDecorator\bin\Debug\netcoreapp3.1\ExamenDecorator.exe
+C:\Users\User\source\repos\ExamenDecorator\bin\Debug\netcoreapp3.1\ExamenDecorator.deps.json
+C:\Users\User\source\repos\ExamenDecorator\bin\Debug\netcoreapp3.1\ExamenDecorator.runtimeconfig.json
+C:\Users\User\source\repos\ExamenDecorator\bin\Debug\netcoreapp3.1\ExamenDecorator.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExamenDecorator\bin\Debug\netcoreapp3.1\ExamenDecorator.dll
+C:\Users\User\source\repos\ExamenDecorator\bin\Debug\netcoreapp3.1\ExamenDecorator.pdb
+C:\Users\User\source\repos\ExamenDecorator\obj\Debug\netcoreapp3.1\ExamenDecorator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ExamenDecorator\obj\Debug\netcoreapp3.1\ExamenDecorator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExamenDecorator\obj\Debug\netcoreapp3.1\ExamenDecorator.AssemblyInfo.cs
+C:\Users\User\source\repos\ExamenDecorator\obj\Debug\netcoreapp3.1\ExamenDecorator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExamenDecorator\obj\Debug\netcoreapp3.1\ExamenDecorator.dll
+C:\Users\User\source\repos\ExamenDecorator\obj\Debug\netcoreapp3.1\ExamenDecorator.pdb
+C:\Users\User\source\repos\ExamenDecorator\obj\Debug\netcoreapp3.1\ExamenDecorator.genruntimeconfig.cache
